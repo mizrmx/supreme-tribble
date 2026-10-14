@@ -21,13 +21,15 @@ h1
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.contenedor-botones button
+.contenedor-botones a
 {
     height: 50px;
     background: #414141;
     color: #ffffff;
     font-size: 20px;
     font-family: "Open Sans", sans-serif;
+    text-align: center;
+    text-decoration: none;
 }
 
 .contenedor-botones button:hover
